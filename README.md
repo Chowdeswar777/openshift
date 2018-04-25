@@ -1,2 +1,2 @@
 # openshift
-openshift inventory
+Ansible inventory file for Openshift 
